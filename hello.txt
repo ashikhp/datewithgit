@@ -1,2 +1,6 @@
 hai friends, how are you? can we meet tommorow
+<<<<<<< HEAD
 no i cant
+=======
+yes we can
+>>>>>>> feature
